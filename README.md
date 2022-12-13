@@ -1,4 +1,4 @@
-# fluttermaps
+# fluttermapview
 
 A Flutter project demonstrating simple usage google_maps_flutter package.
 
